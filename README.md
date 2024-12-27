@@ -1,4 +1,4 @@
-# Driver-Drowsiness_Detection_System-
+![photo_2024-12-27_20-14-55 (2)](https://github.com/user-attachments/assets/aad5f7a1-631b-4b80-8ced-4ac7bd53d3da)# Driver-Drowsiness_Detection_System-
 This Python script implements a Driver Drowsiness Detection System using computer vision techniques. The system utilizes facial landmarks and eye aspect ratio to monitor a driver's level of drowsiness in real-time. Here's a breakdown of the code:
 
 
@@ -28,3 +28,11 @@ The processed frame is displayed, and the loop continues until the "q" key is pr
 Cleanup:
 
 The OpenCV windows are destroyed, and video capture resources are released.
+
+# Output Screen
+
+![photo_2024-12-27_20-14-55 (2)](https://github.com/user-attachments/assets/6d2aa07f-adef-4d8e-8ac0-0b2e99f11c97)
+
+![photo_2024-12-27_20-14-55](https://github.com/user-attachments/assets/6e53627b-a17d-4ba7-912f-394e63cb26de)
+
+![photo_2024-12-27_20-16-14](https://github.com/user-attachments/assets/fb291d01-1b2e-4306-96ef-55d331b2a1f7)
