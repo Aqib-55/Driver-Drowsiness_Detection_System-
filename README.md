@@ -2,7 +2,7 @@
 This Python script implements a Driver Drowsiness Detection System using computer vision techniques. The system utilizes facial landmarks and eye aspect ratio to monitor a driver's level of drowsiness in real-time. Here's a breakdown of the code:
 
 
-Library Imports:
+# Library Imports:
 
 The script starts by importing necessary libraries, including scipy for spatial distance calculations, imutils for convenience in working with OpenCV, pygame.mixer for audio alerts, dlib for face detection and facial landmarks, and cv2 for image processing.
 Alarm Initialization:
